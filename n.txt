@@ -1,5 +1,4 @@
 hello
 this is second file on new branch
-
 hi
 new
